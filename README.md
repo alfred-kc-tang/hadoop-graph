@@ -5,7 +5,6 @@ This project aims at tracking down which email user to whom a given email user w
 ## Table of Contents
 
 * [Data Source](#data-source)
-* [Reference](#reference)
 * [Keywords](#keywords)
 * [License](#license) 
 
